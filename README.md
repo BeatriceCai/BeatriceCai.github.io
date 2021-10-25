@@ -13,3 +13,6 @@ Chech out my [portfolio](https://tian-phd-cs-biology.notion.site/Tian-Cai-s-Rese
   - [the preprint](https://www.biorxiv.org/content/10.1101/2021.09.12.460001v1?rss=1)
   - [explained in blog](https://tian-phd-cs-biology.notion.site/DeepREAL-cc136175dba94c58baef369d29fd1e3b)
 - PortalLearning
+
+# Contact
+- email: tcai@gradcenter.cuny.edu
