@@ -1,4 +1,4 @@
-# Tian Cai
+
 - Algorithm focus: Deep learning Out-of-Distribution generalization
 - Aplication focus: Drug discovery
 
